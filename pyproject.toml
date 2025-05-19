@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gpt4-interface"
+version = "0.1.0"
+description = "Interface for GPT-4 API integration"
+authors = [
+  { name="AgentGPT Team", email="support@agent-gpt.org" }
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "requests>=2.28.0"
+]
+
+[project.urls]
+"Homepage" = "https://agent-gpt.org"
+"Documentation" = "https://agent-gpt.gitbook.io/agent-gpt"
+"Source" = "https://github.com/agentgptorg/gpt4-interface"
+"Tracker" = "https://github.com/agentgptorg/gpt4-interface/issues" 
