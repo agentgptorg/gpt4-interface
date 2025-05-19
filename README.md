@@ -1,7 +1,5 @@
 # AgentGPT: GPT-4 Interface
 
-![AgentGPT Banner](https://agent-gpt.org/banner.png)
-
 > **AgentGPT** is a Python interface for GPT-4 API integration, part of the Intelligent End-to-End Automation ecosystem. Designed to facilitate advanced AI integration into Web3 workflows, automation, and blockchain.
 
 ---
